@@ -8,12 +8,12 @@
     "configurations": [
         {
             "name": "Win32"
-            "intelliSenseMode": "clang-x64",
+            "intelliSenseMode": "windows-msvc-x64",
             "includePath": [
                 "${workspaceRoot}",
                 "C:\\MinGW\\include",
-                "C:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include",
-                "C:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++"
+                "C:\\MinGW\\lib\\gcc\\mingw32\\9.2.0\\include",
+                "C:\\MinGW\\lib\\gcc\\mingw32\\9.2.0\\include\\c++"
             ],
             "defines": [
                 "_DEBUG",
@@ -25,8 +25,8 @@
                 "path": [
                     "${workspaceRoot}",
                     "C:\\MinGW\\include",
-                    "C:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include",
-                    "C:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++"
+                    "C:\\MinGW\\lib\\gcc\\mingw32\\9.2.0\\include",
+                    "C:\\MinGW\\lib\\gcc\\mingw32\\9.2.0\\include\\c++"
                 ],
                 "limitSymbolsToIncludedHeaders": true,
                 "databaseFilename": ""
